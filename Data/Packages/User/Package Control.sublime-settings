@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"AutoFileName",
+		"Babel",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Git",
+		"GitGutter",
+		"Handlebars",
+		"IMESupport",
+		"JavaScript Snippets",
+		"LESS",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Material Theme - White Panels",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeServer",
+		"Terminal",
+		"Vue Syntax Highlight",
+		"Xtemplate"
+	]
+}
